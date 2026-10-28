@@ -1,2 +1,2 @@
-# CADA-Net
-CADA-Net for RGB-T object detection. The code will be released after the paper is published.
+# DIDA
+DIDAt for RGB-T object detection. The code will be released after the paper is published.
